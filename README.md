@@ -6,7 +6,8 @@
 - 💞️ I’m looking to collaborate on cybersecurity projects and web development.
 - 📫 How to reach me: You can reach me via my GitHub profile or email me at abdullahabdulwaheed05@gmail.com
 - ⚡ Fun fact: I'm a newbie in Web 3 and excited to dive deeper into decentralized technologies!
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/I%20will%20be%20making%20history)
+
 
 <!---
 LanZeroth/LanZeroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
