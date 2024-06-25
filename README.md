@@ -27,18 +27,18 @@
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <!-- 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> -->
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<!-- 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> -->
+<!-- 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> -->
+<!-- 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> -->
 </p>
 <p></p>
 
 <h2 align="left">Stats?</h2>
 <!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=santiagobedoa&&theme=xcode)](https://github.com/santiagobedoa) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagobedoa&&theme=tokyonight" alt="santiagobedoa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LanZeroth&theme=tokyonight" alt="LanZeroth" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagobedoa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="santiagobedoa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanZeroth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LanZeroth" /></p>
 
 
 
